@@ -8,4 +8,4 @@
 
 
 
-p.s. 到最後幾乎都在玩reflection跟generic 差低
+p.s. 到最後幾乎都在玩reflection跟generic，差低
